@@ -1,0 +1,13 @@
+{
+  "sections": [
+    {
+      "name": "Section 01",
+      "code": "CEE-PDR-2026"
+    },
+    {
+      "name": "Section 02",
+      "code": "PDR-02-W3K8"
+    }
+  ],
+  "maxAttempts": 2
+}
